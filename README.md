@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-01-15) [mortence/bookmark-collection](202501/2025-01-15-mortence-bookmark-collection.md)
 - (2025-01-15) [ZeroTier 创建私有服务器节点(Moon节点)](202501/2025-01-15-zerotier-%E5%88%9B%E5%BB%BA%E7%A7%81%E6%9C%89%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%8A%82%E7%82%B9%28moon%E8%8A%82%E7%82%B9%29.md)
 - (2025-01-15) [ZeroTier Linux系统安装及搭建moon节点 - hai_sir - 博客园](202501/2025-01-15-zerotier-linux%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E5%8F%8A%E6%90%AD%E5%BB%BAmoon%E8%8A%82%E7%82%B9---hai_sir---%E5%8D%9A%E5%AE%A2%E5%9B%AD.md)
 - (2025-01-13) [MHSanaei/3x-ui](202501/2025-01-13-mhsanaei-3x-ui.md)
